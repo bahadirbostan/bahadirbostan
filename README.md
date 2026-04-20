@@ -1,19 +1,94 @@
-<h1 align="center">Flamer Dia Elo Top Laner</h1>
-<h3 align="center">A greedy developer from Bursa's Paris, Baglaralti District</h3>
+<h1 align="center">Bahadır Bostan</h1>
+<h3 align="center">Founder @ Vireliosoft • Building Scalable SaaS & AI Products</h3>
 
-- 🔭 I’m currently working on [VRS_RandevUpp](PRIVATE)
-
-- 🤝 Currently Hiring @ [VirelioSoft](vireliosoft.com)
-
-- 📝 For Business Purposes [business@vireliosoft.com](business@vireliosoft.com)
-
-- 📫 To Reach Me : **bahadirbostan@vireliosoft.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bahadirbostan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadirbostan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/bahadirbostan">
+    <img src="https://img.shields.io/badge/LinkedIn-Bahadır%20Bostan-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:bahadirbostan@vireliosoft.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://vireliosoft.com">
+    <img src="https://img.shields.io/badge/Vireliosoft-Website-000000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+I’ve been building software products for **6+ years**, focusing on turning ideas into **scalable, revenue-generating systems**.
+
+As the **Founder of Vireliosoft**, I lead:
+- Product Strategy  
+- System Architecture  
+- Technical Execution  
+
+We build **SaaS, Web, and AI-powered products** designed to solve real-world problems and scale globally.
+
+---
+
+## 🧠 Current Focus
+
+- 📊 **EdTech & AI Systems**  
+  Building data-driven and AI-powered education platforms  
+
+- ⚙️ **Scalable SaaS Architectures**  
+  Multi-tenant systems, performance, and growth infrastructure  
+
+- 📈 **Productization & Growth**  
+  Turning software into validated, market-ready products  
+
+---
+
+## 🧩 Products
+
+### 🔹 RandevUpp
+A SaaS appointment management system built for the service industry.  
+Successfully productized and validated with real users.
+
+> More products coming soon in EdTech & AI.
+
+---
+
+## 🤝 Work & Collaboration
+
+- 🚀 Open to collaborations on **SaaS & AI products**
+- 🧠 Interested in **product-focused partnerships**
+- 💼 Currently building and scaling at **Vireliosoft**
+
+📩 **Business:** business@vireliosoft.com  
+📫 **Direct:** bahadirbostan@vireliosoft.com  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,java,php,ruby,docker,linux,azure,mysql,postgres,sqlite,postman" />
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Build fast. Validate early. Scale what works.
+
+I focus on building systems that are not just technically strong,  
+but also **market-validated and growth-ready**.
+
+---
+
+## 📍 Location
+
+Turkey, Bursa / Denizli 🇹🇷
+
+---
+
+## 🔗 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/bahadirbostan" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadirbostan" height="30" width="40" />
+</a>
+</p>
