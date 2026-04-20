@@ -47,6 +47,13 @@ We build **SaaS, Web, and AI-powered products** designed to solve real-world pro
 A SaaS appointment management system built for the service industry.  
 Successfully productized and validated with real users.
 
+### 🔹 EduPortal
+A SaaS appointment management system built for the EdTech industry.
+inclueds its own AI developed by Vireliosoft and validated with thousands of users.
+
+### 🔹 ReadUp
+A fast-reading online course system built for the EdTech industry.
+
 > More products coming soon in EdTech & AI.
 
 ---
