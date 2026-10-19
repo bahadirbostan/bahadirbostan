@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’ve been building software products for **6+ years**, focusing on turning ideas into **scalable, revenue-generating systems**.
 
@@ -28,56 +28,25 @@ We build **SaaS, Web, and AI-powered products** designed to solve real-world pro
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
-- 📊 **EdTech & AI Systems**  
+- **EdTech & AI Systems**  
   Building data-driven and AI-powered education platforms  
 
-- ⚙️ **Scalable SaaS Architectures**  
+- **Scalable SaaS Architectures**  
   Multi-tenant systems, performance, and growth infrastructure  
 
-- 📈 **Productization & Growth**  
+- **Productization & Growth**  
   Turning software into validated, market-ready products  
 
 ---
-
-## 🧩 Products
-
-### 🔹 RandevUpp
-A SaaS appointment management system built for the service industry.  
-Successfully productized and validated with real users.
-
-### 🔹 EduPortal
-A SaaS appointment management system built for the EdTech industry.
-inclueds its own AI developed by Vireliosoft and validated with thousands of users.
-
-### 🔹 ReadUp
-A fast-reading online course system built for the EdTech industry.
-
-> More products coming soon in EdTech & AI.
-
----
-
-## 🤝 Work & Collaboration
-
-- 🚀 Open to collaborations on **SaaS & AI products**
-- 🧠 Interested in **product-focused partnerships**
-- 💼 Currently building and scaling at **Vireliosoft**
 
 📩 **Business:** business@vireliosoft.com  
 📫 **Direct:** bahadirbostan@vireliosoft.com  
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,java,php,ruby,docker,linux,azure,mysql,postgres,sqlite,postman" />
-</p>
-
----
-
-## ⚡ Philosophy
+## Philosophy
 
 > Build fast. Validate early. Scale what works.
 
